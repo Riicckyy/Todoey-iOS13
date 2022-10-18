@@ -1,6 +1,6 @@
 # Todoey ✓
 
-O objetivo deste projeto é entender como salva arquivos no iOS usando UserDefaults, Core Data e Realm com os conceitos de banco de dados.
+O objetivo deste projeto é entender como salva dados no iOS usando UserDefaults, Core Data e Realm com os conceitos de banco de dados.
 
 ## O que criei
 
