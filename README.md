@@ -1,12 +1,16 @@
 # Todoey ✓
 
-## Our Goal
+O objetivo deste projeto é entender como salva arquivos no iOS usando UserDefaults, Core Data e Realm com os conceitos de banco de dados.
 
-The objective of this tutorial is to understand how to save data in iOS. We'll look at various choices and learn to use UserDefaults, Core Data and Realm.
+## O que criamos
 
-## What you will create
+Um aplicativo todolist para acompanhar todas as tarefas, relativamente simples mas com muita carga de aprendizagem.
 
-A todolist app to keep track of all your tasks.
+### Framework usado
+
+- [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)
+
+Integrei esse framework para apagar objetos da lista com animação.
 
 
 
