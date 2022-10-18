@@ -10,7 +10,7 @@ Um aplicativo todolist para acompanhar todas as tarefas, relativamente simples m
 
 - [SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit)
 
-Integrei esse framework para deletar objetos da lista com animação.
+Integrei esse framework para deletar itens da lista com animação.
 
 
 
