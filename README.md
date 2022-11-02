@@ -1,5 +1,8 @@
 # Todoey ✓
 
+https://user-images.githubusercontent.com/107418244/196539294-b13542b4-195c-4dc9-8b43-65f54b822b3a.mov
+
+## Objetivo
 O objetivo deste projeto é entender como salva dados no iOS usando UserDefaults, Core Data e Realm com os conceitos de banco de dados.
 
 ## O que criei
@@ -12,10 +15,6 @@ Um aplicativo todolist para acompanhar todas as tarefas, relativamente simples m
 
 Integrei esse framework para deletar itens da lista com animação.
 
-
-
-
-https://user-images.githubusercontent.com/107418244/196539294-b13542b4-195c-4dc9-8b43-65f54b822b3a.mov
 
 ## Henrique Rossi
 
